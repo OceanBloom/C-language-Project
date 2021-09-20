@@ -1,3 +1,10 @@
+/********************************************************
+ * 程序目的：用C语言做一个飞机大战小游戏
+ * 编译环境：visual studio 2019，EasyX_20210730
+ * 作　　者：曹谋仁（个人Blog：https://oceanbloom.github.io/）
+ * 发布日期：2021/9/19
+ ********************************************************/
+
 #define _CRT_SECURE_NO_WARNINGS//防止对strcat()安全警告
 #include <graphics.h>
 #include <stdio.h>
